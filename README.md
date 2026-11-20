@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040286
+# Name:NITHIN KAVI A R
+# Date:20.11.2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="509" height="465" alt="Screenshot 2026-10-20 141811" src="https://github.com/user-attachments/assets/26857220-afef-49e6-bc79-0488b1130481" />
 
 
 
